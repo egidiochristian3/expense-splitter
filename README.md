@@ -277,4 +277,5 @@ This project was built as an academic submission for a Full-Stack Web Developmen
 
 ---
 
-*Built with  using React, Node.js, Express, MongoDB and Socket.io*
+CODE EXPLANATION VIDEO (https://drive.google.com/file/d/1S6A24fZ6kN7XmEh5gbGmLF20aF9o8mof/view?usp=sharing)
+PROJECT OVERVIEW VIDEO (https://drive.google.com/file/d/1CVQ8TW4aQRKayD0PcKg3pnMj625eUT2x/view?usp=drive_link)
